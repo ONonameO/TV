@@ -1,0 +1,8 @@
+#EXTM3U x-tvg-url=http://epg.51zmt.top:8000/e.xml
+#EXTINF:-1 group-title="港澳台" tvg-name="TVB-星河 1" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png",TVB-星河 1
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="TVB-星河 2" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png",TVB-星河 2
+http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="TVB-星河 2" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png",TVB-星河 2
+http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
