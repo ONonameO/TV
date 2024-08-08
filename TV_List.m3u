@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url=http://epg.51zmt.top:8000/e.xml
+#EXTINF:-1 group-title="央视" tvg-name="🥇奥运奖牌榜" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/templet/common/DEPA1718611707570347/qujiangpai01.png",🥇奥运奖牌榜
+https://pull-flv-f6.douyincdn.com/media/stream-692028292559012524.flv?abr_pts=-800&_session_id=037-202407291921458CA4EAA478C16011032F.1722252116805.55119
 #EXTINF:-1 group-title="央视" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV-2财经
